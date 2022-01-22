@@ -1,0 +1,80 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_171\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;H:\AP Comp Sci\Final Project\Final Project
+-d
+H:\AP Comp Sci\Final Project\Final Project\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java
+<---- end of javadoc command ---->
+Loading source file H:\AP Comp Sci\Final Project\Final Project\GameScreen.java...
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:59: error: ')' expected
+        if(keyCode ==  mp;jh0 uhp; j
+                         ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:59: error: not a statement
+        if(keyCode ==  mp;jh0 uhp; j
+                                   ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:59: error: ';' expected
+        if(keyCode ==  mp;jh0 uhp; j
+                                    ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: illegal start of expression
+        87h-[p 'v5[g/ messed up arrow
+            ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: not a statement
+        87h-[p 'v5[g/ messed up arrow
+           ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: unclosed character literal
+        87h-[p 'v5[g/ messed up arrow
+               ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: not a statement
+        87h-[p 'v5[g/ messed up arrow
+             ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: not a statement
+        87h-[p 'v5[g/ messed up arrow
+                    ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: ';' expected
+        87h-[p 'v5[g/ messed up arrow
+                            ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:60: error: ';' expected
+        87h-[p 'v5[g/ messed up arrow
+                                     ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:65: error: illegal start of type
+        if(keyCode == KeyEvent.VK_DOWN) {//key pressed down arrow
+        ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:65: error: <identifier> expected
+        if(keyCode == KeyEvent.VK_DOWN) {//key pressed down arrow
+                  ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:65: error: ';' expected
+        if(keyCode == KeyEvent.VK_DOWN) {//key pressed down arrow
+                     ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:65: error: illegal start of type
+        if(keyCode == KeyEvent.VK_DOWN) {//key pressed down arrow
+                              ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:65: error: ';' expected
+        if(keyCode == KeyEvent.VK_DOWN) {//key pressed down arrow
+                                      ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:71: error: class, interface, or enum expected
+    public void keyTyped(KeyEvent e) {
+           ^
+H:\AP Comp Sci\Final Project\Final Project\GameScreen.java:76: error: class, interface, or enum expected
+    public void keyReleased(KeyEvent txt) {
+           ^
+17 errors
